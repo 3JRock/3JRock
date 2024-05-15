@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jayson Jensen and I am studing computer engineering at USF, I graduate may 2024
+- 👋 Hi, I’m Jayson Jensen and I am studying computer engineering at USF, I graduate aug 2024
 - 👀 I’m interested in gaining more experience in the comp sci field
 - 🌱 I’m currently learning
 - 📫 How to reach me email: Jayson11jensen@gmail.com
